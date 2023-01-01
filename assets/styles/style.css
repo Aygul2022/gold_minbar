@@ -1,0 +1,66 @@
+h1 {
+  color: gold;
+  text-align: center;
+  font-size: 45px;
+  }
+.logotip {
+  width: 100px;
+  height: 100px;
+  padding: 0px;
+  margin: 0px;
+  position: absolute;
+  padding-bottom: 35px;
+  padding-left: 30px;
+      }
+    p{
+      padding-top: 55px; 
+    }
+ 
+#directors,
+#posters,
+#trailer {
+  width: 1200px;
+  height: 200px;
+}
+
+#directors {
+  background-color:cornsilk;
+}
+#posters {
+  background-color: beige;
+  border: 2px;
+}
+#trailer {
+  background-color:burlywood;
+}
+img {
+  width: 160px;
+  height: 160px;
+  float: left;
+  
+}
+.pervii,
+.vtoroi,
+.tretii,
+.four,
+.five,
+.poster1,
+.poster2,
+.poster3,
+.poster4,
+.poster{
+float: left;
+}
+.video1,
+.video2,
+.video3,
+.video4,
+.video5{
+float: left; 
+width: 160px;
+height: 200px;
+margin-left: 15px;
+margin-right: 15px;
+padding-left: 45px;
+padding-top: 0px;
+}
